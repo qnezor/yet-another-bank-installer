@@ -1,0 +1,17 @@
+{
+    "name": "yet another bank installer",
+    "short_name": "yabi",
+    "description": "установка банковских приложений",
+    "icons": [
+      {
+        "src": "img/alpha.webp",
+        "sizes": "512x512",
+        "type": "image/webp"
+      }
+    ],
+    "start_url": "index.html",
+    "display": "fullscreen",
+    "theme_color": "black",
+    "background_color": "black"
+  }
+  
