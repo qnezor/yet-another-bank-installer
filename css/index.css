@@ -16,8 +16,17 @@ body {
     color: white;
 }
 
+@media (min-width: 601px) {
+    main {
+        width: 600px;
+    }
+
+    footer {
+        width: 450px;
+    }
+}
+
 main {
-    width: 600px;
     flex-wrap: wrap;
     display: flex;
     justify-content: center;
@@ -47,5 +56,4 @@ a:hover {
 
 footer {
     margin-top: 20px;
-    width: 450px;
 }
