@@ -1,12 +1,12 @@
 {
-    "name": "yet another bank installer",
-    "short_name": "yabi",
+    "name": "ruBanka",
+    "short_name": "ruBanka",
     "description": "установка банковских приложений",
     "icons": [
       {
-        "src": "img/alpha.webp",
+        "src": "logo.png",
         "sizes": "512x512",
-        "type": "image/webp"
+        "type": "image/png"
       }
     ],
     "start_url": "index.html",
